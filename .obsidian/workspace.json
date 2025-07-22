@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.es.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.es"
+              "title": "README"
             }
           }
         ],
@@ -185,8 +185,8 @@
   },
   "active": "747148f495b19840",
   "lastOpenFiles": [
-    "README.md",
     "README.es.md",
+    "README.md",
     "Documents/AlejandraCastillo_CV.pdf",
     "Documents/AlejandraCastillo_Resume.pdf",
     "cv/cv_es.pdf.md",

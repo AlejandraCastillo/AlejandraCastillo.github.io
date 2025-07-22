@@ -34,8 +34,7 @@ I’m autistic (level 1) and I channel my hyperfocus and conceptual thinking int
 ### 🔢 [Allocator Laboratory](https://github.com/AlejandraCastillo/AllocatorLaboratory) _(In progress)_
 
 **Memory allocator simulators in C**  
-Modular project to explore the internal logic of real memory management systems.  
-Includes fixed blocks, free lists, coalescing, buddy system, slab, and more.
+Modular project to explore the internal logic of different memory allocation and deallocation strategies. Includes approaches such as fixed-size blocks with bitmap, coalescing, buddy system, slab, among others.
 
 ---
 

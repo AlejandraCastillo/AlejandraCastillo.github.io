@@ -33,8 +33,7 @@ Soy autista (nivel 1) y canalizo mi hiperenfoque y pensamiento conceptual en la 
 
 ### 🔢 [Allocator Laboratory](https://github.com/AlejandraCastillo/AllocatorLaboratory) *(En desarrollo)*  
 **Simuladores de allocadores de memoria en C**  
-Proyecto modular para explorar la lógica interna de sistemas reales de gestión de memoria.  
-Incluye estrategia de bloques fijos, listas libres, coalescing, buddy system, slab y más.
+Proyecto modular para explorar la lógica interna de distintos enfoques de asignación y liberación de memoria. Incluye estrategias como bloques fijos con bitmap, coalescing, buddy system, slab, entre otras.
 
 ---
 
